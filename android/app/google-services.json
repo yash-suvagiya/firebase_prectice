@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792337983525",
+    "project_id": "prectice-af9b2",
+    "storage_bucket": "prectice-af9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792337983525:android:f3870578ca1428f0c5b7cc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_prectice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792337983525-rrg9qes139lfah48d8s5hskqbcmv5ki7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3O8Jw65X3UJYUwdnK9Hob3DRMm2Nog6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792337983525-rrg9qes139lfah48d8s5hskqbcmv5ki7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
