@@ -1,4 +1,4 @@
-import 'package:firebase_prectice/simple_crude.dart';
+import 'package:firebase_prectice/crude_update/simple_crude_demo.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ThreeTextFild(),
+      home: SimpleCrudDemo(),
       debugShowCheckedModeBanner: false,
     );
   }
